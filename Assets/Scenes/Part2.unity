@@ -2572,6 +2572,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 5727797567353795592, guid: fdcba7642152dca42a4ef4897c4e3275, type: 3}
+      propertyPath: altClip
+      value: 
+      objectReference: {fileID: 7400000, guid: 9beb0e6278fe1cd4b993ad95e7be75eb, type: 2}
+    - target: {fileID: 5727797567353795592, guid: fdcba7642152dca42a4ef4897c4e3275, type: 3}
+      propertyPath: defaultClip
+      value: 
+      objectReference: {fileID: 7400000, guid: 67a8fbd3deaba784fba38cc6b6e8a9a9, type: 2}
     - target: {fileID: 7375360172255211952, guid: fdcba7642152dca42a4ef4897c4e3275, type: 3}
       propertyPath: m_LocalPosition.x
       value: -11.06

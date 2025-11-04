@@ -83,7 +83,9 @@ public class PlayerMovement : MonoBehaviour
         // Enable the melee weapon hitbox
         _meleeWeapon.SetActive(true);
         Debug.Log("Player swings melee weapon!");
-
+        
+        
+        
         yield return new WaitForSeconds(_attackDuration);
 
         // Disable hitbox after attack ends

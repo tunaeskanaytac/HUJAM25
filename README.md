@@ -1,3 +1,5 @@
 # HUJAM25
-- [ ] Drag and Drop System (For now.)
-- [ ] UI
+- [ ] A new tileset - walls
+
+# Part 2
+> The second part is essentially a copy of hotline miami. A procedural generated map with enemies in certain places.
